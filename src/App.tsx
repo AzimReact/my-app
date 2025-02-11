@@ -4,8 +4,6 @@ import { AboutPageAsync } from "./pages/AboutPage/AboutPage.async";
 import { Suspense, useState } from "react";
 import './styles/index.scss';
 
-
-
 function App() {
   // const [theme, setTheme] = useState<Theme>(Theme.LIGHT)
 
